@@ -2,7 +2,13 @@
  * fft.h
  *
  *  Created on: Sep 24, 2016
- *      Author: Loc
+ *      Author: Loc V. Lam
+ *
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ 
  */
 
 #ifndef DSPLIB_INC_FFT_H_
