@@ -1,7 +1,13 @@
 '''
 Created on Sep 20, 2016
 
-@author: Loc
+@author: Loc V. Lam
+
+ * This program is distributed in the hope that it will be useful,
+ * but WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ * GNU General Public License for more details.
+ 
 '''
 import serial
 
